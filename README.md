@@ -28,7 +28,7 @@ pip install -r requirements.txt
 
 ## Data and checkpoints
 
-We provide all necessary data as a zipped directory available under [this link](https://drive.google.com/file/d/1lW21PiaelB98L9OeAsKppLgftnOw3ZaH/view?usp=sharing). After downloading, unzip it in the root of this repository. It includes:
+We provide all necessary data as a zipped directory available under [this link](https://drive.google.com/file/d/1zuMP46DN8eo4yhgU30po7NqRNj3IUC6r/view?usp=sharing). After downloading, unzip it in the root of this repository. It includes:
 
 - I2SB checkpoints for ImageNet, CelebA, and CelebA-HQ
 - Classifier checkpoints for the respective datasets
